@@ -1,7 +1,7 @@
 <h1 align="center">Hamza — Cybersecurity & Networks Engineering Student</h1>
 
 <p align="center">
-  <strong>Vice-Président @ CYBERGLITCHERS UIR</strong> · Université Internationale de Rabat · 4ème année
+  <strong>Vice-Président @ CYBERGLITCHERS UIR</strong> · Université Internationale de Rabat · 3ème année
 </p>
 
 <p align="center">
@@ -62,4 +62,4 @@ Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn F
 
 ## 📬 Contact
 
-Disponible via **[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)** — ouvert aux opportunités PFA & stages en cybersécurité au Maroc.
+Disponible via **[LinkedIn](https://www.linkedin.com/in/hamza-mezzene)** — ouvert aux opportunités PFA & stages en cybersécurité au Maroc.
