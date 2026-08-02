@@ -1,11 +1,11 @@
 <h1 align="center">Hamza — Cybersecurity & Networks Engineering Student</h1>
 
 <p align="center">
-  <strong>Vice-Président @ CYBERGLITCHERS UIR</strong> · Université Internationale de Rabat · 3ème année
+  <strong>Vice-Président @ CYBERGLITCHERS UIR</strong> · Université Internationale de Rabat · 4ème année
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hamza-mezzene/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CTF_Player-red?style=flat&logo=hackthebox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_to-PFA_Internship-green?style=flat"/>
   <img src="https://img.shields.io/badge/UIR-Rabat-blue?style=flat"/>
@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 À propos
 
-Étudiant ingénieur en **cybersécurité et réseaux** à l'Université Internationale de Rabat, passionné par la sécurité offensive, les architectures réseau avancées et la recherche appliquée en contrôle d'accès.
+Étudiant ingénieur en **cybersécurité** à l'Université Internationale de Rabat, passionné par la sécurité, les architectures réseau avancées et la recherche appliquée en contrôle d'accès.
 
 Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn Fest 2026** — festival IA & cybersécurité de 2 jours.
 
-> 🔍 **Actuellement à la recherche d'un stage PFA en cybersécurité** (SOC/SIEM, pentest, sécurité réseau, GRC) — Maroc
+> 🔍 **Actuellement à la recherche d'un stage PFA en cybersécurité** (SOC/SIEM, pentest, sécurité réseau, GRC)
 
 ---
 
@@ -43,8 +43,7 @@ Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn F
 |---|---|---|
 | [🔐 network-segmentation-eve-ng](#) | Architecture réseau multi-sites avec NAT, DHCP, DNS multi-département | EVE-NG, Cisco IOS |
 | [🧪 linux-namespaces-nat-iptables](#) | Lab NAT multi-segments avec namespaces Linux et iptables | Linux, Bash, iptables |
-| [🔑 classical-ciphers-python](#) | Caesar, Vigenère, transposition colonnaire, chiffrement monoalphabétique | Python |
-| [🌐 tls-wireshark-analysis](#) | Déchiffrement TLS/SSL et analyse de trafic HTTPS avec Wireshark | Wireshark, Python |
+| [🛡️ cybersecurity-labs](https://github.com/hamza-mzn/cybersecurity-labs) | Cryptographie classique & TLS/SSL (César, Vigenère, Wireshark) + labs offensifs (DoS, MITM, John the Ripper, Metasploit, iptables) | Python, Wireshark, Kali Linux |
 | [🛒 stocky-mvc-platform](#) | Plateforme web e-commerce multi-rôles sécurisée | PHP, MySQL, PDO, AJAX |
 | [📱 android-realm-crud](#) | Application Android CRUD complète avec Realm | Java, Android SDK, Realm |
 | [📊 bi-datawarehouse-talend](#) | Pipeline ETL et entrepôt de données | Talend, MySQL |
@@ -62,4 +61,4 @@ Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn F
 
 ## 📬 Contact
 
-Disponible via **[LinkedIn](https://www.linkedin.com/in/hamza-mezzene)** — ouvert aux opportunités PFA & stages en cybersécurité au Maroc.
+Disponible via **[LinkedIn](https://www.linkedin.com/in/hamza-mezzene/)** — ouvert aux opportunités PFA & stages en cybersécurité au Maroc.
