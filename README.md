@@ -30,10 +30,7 @@ Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn F
 | **Réseaux** | Linux namespaces, iptables, NAT, OSPF, BGP, EVE-NG, BIND9, Cisco IOS |
 | **Sécurité** | Wireshark, TLS/SSL, analyse de trafic, stéganographie LSB, Kali Linux |
 | **Cryptographie** | Python (Caesar, Vigenère, AES, SHA, monoalphabétique) |
-| **Web** | PHP MVC, PDO/MySQL, bcrypt, AJAX, HTML/CSS/JS |
-| **Mobile** | Android (Java), Realm DB, RecyclerView, Fragments |
-| **BI / Data** | Talend ETL, MySQL, Data Warehousing, modélisation en étoile |
-| **Outils** | Git, Linux (Ubuntu/Kali), Python, Bash, Wireshark, EVE-NG |
+| **Outils** | Git, Linux (Ubuntu/Kali), Python, Bash, Wireshark |
 
 ---
 
@@ -41,7 +38,7 @@ Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn F
 
 | Repo | Description | Stack |
 |---|---|---|
-| [🧪 linux-namespaces-nat-iptables](#) | Lab NAT multi-segments avec namespaces Linux et iptables | Linux, Bash, iptables |
+| [🧪 linux-namespaces-nat-iptables](https://github.com/hamza-mzn/linux-namespaces-nat-iptables) | Lab NAT multi-segments avec namespaces Linux et iptables | Linux, Bash, iptables |
 | [🛡️ cybersecurity-labs](https://github.com/hamza-mzn/cybersecurity-labs) | Cryptographie classique & TLS/SSL (César, Vigenère, Wireshark) + labs offensifs (DoS, MITM, John the Ripper, Metasploit, iptables) | Python, Wireshark, Kali Linux |
 
 ---
