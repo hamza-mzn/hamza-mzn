@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-mezzene/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CTF_Player-red?style=flat&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CTF_Organizer-red?style=flat&logo=hackthebox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_to-PFA_Internship-green?style=flat"/>
   <img src="https://img.shields.io/badge/UIR-Rabat-blue?style=flat"/>
 </p>
