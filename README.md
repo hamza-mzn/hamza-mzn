@@ -41,13 +41,8 @@ Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn F
 
 | Repo | Description | Stack |
 |---|---|---|
-| [🔐 network-segmentation-eve-ng](#) | Architecture réseau multi-sites avec NAT, DHCP, DNS multi-département | EVE-NG, Cisco IOS |
 | [🧪 linux-namespaces-nat-iptables](#) | Lab NAT multi-segments avec namespaces Linux et iptables | Linux, Bash, iptables |
 | [🛡️ cybersecurity-labs](https://github.com/hamza-mzn/cybersecurity-labs) | Cryptographie classique & TLS/SSL (César, Vigenère, Wireshark) + labs offensifs (DoS, MITM, John the Ripper, Metasploit, iptables) | Python, Wireshark, Kali Linux |
-| [🛒 stocky-mvc-platform](#) | Plateforme web e-commerce multi-rôles sécurisée | PHP, MySQL, PDO, AJAX |
-| [📱 android-realm-crud](#) | Application Android CRUD complète avec Realm | Java, Android SDK, Realm |
-| [📊 bi-datawarehouse-talend](#) | Pipeline ETL et entrepôt de données | Talend, MySQL |
-| [🔬 arbac-monte-carlo](#) | Simulation Monte Carlo — évaluation modèle A&RBAC (papier INASS) | Python, NumPy |
 
 ---
 
