@@ -1,56 +1,66 @@
-<h1 align="center">Hamza — Cybersecurity & Networks Engineering Student</h1>
+<h1 align="center">Hamza Mezzene</h1>
 
 <p align="center">
-  <strong>Vice-Président @ CYBERGLITCHERS UIR</strong> · Université Internationale de Rabat · 4ème année
+  <strong>Élève ingénieur en cybersécurité — 4e année</strong> · ESIN, Université Internationale de Rabat<br/>
+  Vice-président de <strong>CYBERGLITCHERS UIR</strong> · Joueur et organisateur de CTF
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-mezzene/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CTF_Organizer-red?style=flat&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to-PFA_Internship-green?style=flat"/>
-  <img src="https://img.shields.io/badge/UIR-Rabat-blue?style=flat"/>
+  <a href="https://www.linkedin.com/in/hamza-mezzene/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mezzenehamza@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <img src="https://img.shields.io/badge/Recherche-Stage_PFA_%C3%A9t%C3%A9_2027-2ea44f?style=flat" alt="Recherche stage PFA été 2027"/>
+  <img src="https://img.shields.io/badge/Rabat-Maroc-1f3864?style=flat" alt="Rabat, Maroc"/>
 </p>
 
 ---
 
-## 🧑‍💻 À propos
+## 🔍 En ce moment
 
-Étudiant ingénieur en **cybersécurité** à l'Université Internationale de Rabat, passionné par la sécurité, les architectures réseau avancées et la recherche appliquée en contrôle d'accès.
+Je recherche un **stage PFA de 5 semaines en cybersécurité (été 2027, Maroc)** — SOC / blue team, tests d'intrusion ou sécurité réseau.
+CV et disponibilités sur demande via [LinkedIn](https://www.linkedin.com/in/hamza-mezzene/) ou par [e-mail](mailto:mezzenehamza@gmail.com).
 
-Vice-Président du club **CYBERGLITCHERS UIR** et co-organisateur du **CYBrAIn Fest 2026** — festival IA & cybersécurité de 2 jours.
+## 📁 Projets phares
 
-> 🔍 **Actuellement à la recherche d'un stage PFA en cybersécurité** (SOC/SIEM, pentest, sécurité réseau, GRC)
-
----
-
-## 🔧 Stack technique
-
-| Domaine | Technologies |
-|---|---|
-| **Réseaux** | Linux namespaces, iptables, NAT, OSPF, BGP, EVE-NG, BIND9, Cisco IOS |
-| **Sécurité** | Wireshark, TLS/SSL, analyse de trafic, stéganographie LSB, Kali Linux |
-| **Cryptographie** | Python (Caesar, Vigenère, AES, SHA, monoalphabétique) |
-| **Outils** | Git, Linux (Ubuntu/Kali), Python, Bash, Wireshark |
-
----
-
-## 📁 Projets
-
-| Repo | Description | Stack |
+| Projet | Ce qu'il montre | Stack |
 |---|---|---|
-| [🧪 linux-namespaces-nat-iptables](https://github.com/hamza-mzn/linux-namespaces-nat-iptables) | Lab NAT multi-segments avec namespaces Linux et iptables | Linux, Bash, iptables |
-| [🛡️ cybersecurity-labs](https://github.com/hamza-mzn/cybersecurity-labs) | Cryptographie classique & TLS/SSL (César, Vigenère, Wireshark) + labs offensifs (DoS, MITM, John the Ripper, Metasploit, iptables) | Python, Wireshark, Kali Linux |
+| [🧪 **linux-namespaces-nat-iptables**](https://github.com/hamza-mzn/linux-namespaces-nat-iptables) | Réseau d'entreprise multi-départements simulé sur une seule machine : 7 namespaces, NAT, DHCP/DNS, HTTPS et FTPS chiffrés, déploiement automatisé et tests | Linux, iptables, dnsmasq, nginx/TLS, vsftpd, Bash |
+| [🛡️ **cybersecurity-labs**](https://github.com/hamza-mzn/cybersecurity-labs) | Chaîne attaque/défense en laboratoire isolé : reconnaissance, MITM, exploitation, craquage de mots de passe, pare-feu default-deny, analyse TLS 1.3 | Kali, Nmap, Metasploit, Ettercap, John the Ripper, Wireshark |
+| [🔗 **lcs-parallel-mpi-cuda**](https://github.com/hamza-mzn/lcs-parallel-mpi-cuda) | Longest Common Subsequence parallélisé (front d'onde) : versions MPI et CUDA, validées sur 198 cas | C, MPI, CUDA |
+| [🔐 **rsa-parallel-mpi-cuda**](https://github.com/hamza-mzn/rsa-parallel-mpi-cuda) | RSA (génération, chiffrement, attaque par factorisation) en séquentiel, MPI et CUDA | C, MPI, CUDA |
+
+## 📚 Travaux pratiques par domaine
+
+| Dépôt | Contenu |
+|---|---|
+| [**ethical-hacking-labs**](https://github.com/hamza-mzn/ethical-hacking-labs) | Footprinting, scan Nmap, NSE + Metasploit, anonymisation Tor/ProxyChains |
+| [**applied-cryptography-labs**](https://github.com/hamza-mzn/applied-cryptography-labs) | Chiffrement symétrique, modes opératoires, MAC et HMAC (SEED Labs) |
+| [**sdn-labs**](https://github.com/hamza-mzn/sdn-labs) | Réseau Linux (namespaces, veth, bridge), topologies Mininet (Spine-Leaf, Fat-Tree), STP |
+| [**cloud-computing-labs**](https://github.com/hamza-mzn/cloud-computing-labs) | Load balancer Azure (défense en profondeur), conteneurisation Docker |
+| [**parallel-programming-mpi-cuda**](https://github.com/hamza-mzn/parallel-programming-mpi-cuda) | TP et challenges MPI/CUDA : somme, matrices, Fermat, RSA — avec étude de speedup |
+| [**llm-labs**](https://github.com/hamza-mzn/llm-labs) | Paramètres d'inférence LLM et retrieval, en notebooks Python |
+
+## 🔧 Compétences
+
+| Domaine | Outils et notions |
+|---|---|
+| **Sécurité offensive (lab)** | Nmap, Metasploit / MSFvenom, Ettercap, BetterCAP, John the Ripper, Hping3 |
+| **Défense & analyse** | iptables (default-deny), Wireshark, tcpdump, analyse de logs, triage de vulnérabilités (CVSS), OWASP Top 10 |
+| **Réseau & systèmes** | Linux (Ubuntu, Kali), network namespaces, NAT, Mininet, Open vSwitch, BIND9, dnsmasq, TLS/PKI (OpenSSL), nginx, vsftpd |
+| **Cloud** | Azure (VM, Load Balancer, Bastion, NSG), Docker |
+| **Calcul parallèle** | MPI (Open MPI), CUDA |
+| **Cryptographie** | Chiffrements classiques et cryptanalyse, modes par blocs/flot, HMAC, RSA |
+| **Programmation** | Python, Bash, C, PHP 8, Java, SQL |
+
+## 🏁 CTF & communauté
+
+- **CYBERGLITCHERS UIR** — vice-président : organisation de challenges CTF et d'ateliers techniques.
+- **CYBrAIn Fest** — coordination de l'événement IA × cybersécurité de l'UIR (CTF, ateliers, intervenants).
+- **Spécialités CTF** — stéganographie, forensics, cryptanalyse.
+
+## 🎓 Certifications
+
+Cisco — *Cyber Threat Management* · Cisco — *Introduction to Cybersecurity*
 
 ---
 
-## 🏁 CTF & Activités sécurité
-
-- 🛡️ **CYBERGLITCHERS UIR** — Vice-Président, organisation de challenges CTF
-- 🎪 **CYBrAIn Fest 2026** — Co-organisateur (festival IA & cybersécurité, UIR, Avril 2026)
-- 🎯 **Compétences CTF** : Stéganographie, forensics, cryptographie, web
-
----
-
-## 📬 Contact
-
-Disponible via **[LinkedIn](https://www.linkedin.com/in/hamza-mezzene/)** — ouvert aux opportunités PFA & stages en cybersécurité au Maroc.
+<sub>⚠️ Les techniques offensives présentées dans ces dépôts ont été pratiquées uniquement en environnement de laboratoire isolé, dans un cadre pédagogique autorisé.</sub>
